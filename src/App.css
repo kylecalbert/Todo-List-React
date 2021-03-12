@@ -16,9 +16,8 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-color: yellow;
+  /* background-color: yellow; */
   width: 900px;
-  height: 700px;
   text-decoration: black;
 }
 form {

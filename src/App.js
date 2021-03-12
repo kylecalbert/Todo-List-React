@@ -58,7 +58,6 @@ function App() {
         {todosList.map((todo) => (
           <Todo todo={todo.todo} inprogress={todo.inprogress} id={todo.id} />
         ))}
-
         <div />
       </div>
     </div>
